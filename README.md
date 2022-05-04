@@ -6,8 +6,10 @@ I am interested in Web Applications , Mobile Applications , ML , Native Apps(Flu
 
 #### Connect with me:
 
-[<img align="left" alt="Keudaz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/keudaz/)
-[<img align="left" alt="Keudaz | Github" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/keudaz)
+[<img align="left" alt="Keudaz | LinkedIn" width="22px" src="https://github.com/keudaz/keudaz/blob/main/images/linkedin.svg" />](https://www.linkedin.com/in/keudaz/)
+[<img align="left" alt="Keudaz | Facebook" width="22px" src="https://github.com/keudaz/keudaz/blob/main/images/github.png" />](https://www.facebook.com/keudaz)
+[<img align="left" alt="Keudaz | Instagram" width="22px" src="https://github.com/keudaz/keudaz/blob/main/images/github.png" />](https://www.instagram.com/keudaz)
+[<img align="left" alt="Keudaz | Github" width="22px" src="https://github.com/keudaz/keudaz/blob/main/images/github.png" />](https://github.com/keudaz)
 
 <br />
 
