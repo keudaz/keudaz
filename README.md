@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi Friends 👋
 
 I am Kalana Udara, a Software Engineer [ BSc(Hons) @ SLIIT ] Owner at [Codeflex](https://www.facebook.com/CodeFlexOfficial) in Colombo, Sri Lanka.
 
@@ -17,6 +17,8 @@ I am interested in Web Applications , Mobile Applications , ML , Native Apps(Flu
 
 #### Languages and Tools:
 
+[<img align="left" alt="Android" width="26px" src="https://1000logos.net/wp-content/uploads/2016/10/Android-Logo.png" />]()
+[<img align="left" alt="Java" width="26px" src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" />]()
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />]()
 [<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.svg" />]()
 [<img align="left" alt="Tensorflow" width="26px" src="https://raw.githubusercontent.com/valohai/ml-logos/master/tensorflow-tf.svg" />]()
