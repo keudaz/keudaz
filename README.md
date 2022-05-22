@@ -24,8 +24,9 @@ I am interested in Web Applications , Mobile Applications , ML , Native Apps(Flu
 [<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.svg" />]()
 [<img align="left" alt="Tensorflow" width="26px" src="https://raw.githubusercontent.com/valohai/ml-logos/master/tensorflow-tf.svg" />]()
 [<img align="left" alt="spring boot" width="26px" src="https://seeklogo.com/images/S/spring-logo-9A2BC78AAF-seeklogo.com.png" />]()
-[<img align="left" alt="Angular" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" />]()
-[<img align="left" alt="Caffe" width="55px" src="https://raw.githubusercontent.com/valohai/ml-logos/master/caffe.svg" />]()
+[<img align="left" alt="React Native Expo" width="55px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSug2QDzVb9knBfFKz2JZnux1OTnAjdCKtapLMcPGreVYnD-Xph5MkBPqrMaW8-3cI9S0c&usqp=CAU" />]()
+[<img align="left" alt="Angular" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" />]()
+[<img align="left" alt="React Native" width="55px" src="https://toppng.com/uploads/preview/react-native-svg-transformer-allows-you-import-svg-aperture-science-innovators-logo-11562851994zqcpwozsvy.png" />]()
 [<img align="left" alt="OpenCV" width="26px" src="https://github.com/opencv/opencv/blob/master/doc/opencv-logo2.png?raw=true" />]()
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]()
 
