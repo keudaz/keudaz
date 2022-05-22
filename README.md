@@ -17,8 +17,9 @@ I am interested in Web Applications , Mobile Applications , ML , Native Apps(Flu
 
 #### Languages and Tools:
 
-[<img align="left" alt="Android" width="50px" src="https://1000logos.net/wp-content/uploads/2016/10/Android-Logo.png" />]()
-[<img align="left" alt="Java" width="50px" src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" />]()
+[<img align="left" alt="React" width="26px" src="https://cdn.worldvectorlogo.com/logos/react-1.svg" />]()
+[<img align="left" alt="Android" width="46px" src="https://1000logos.net/wp-content/uploads/2016/10/Android-Logo.png" />]()
+[<img align="left" alt="Java" width="46px" src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" />]()
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />]()
 [<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.svg" />]()
 [<img align="left" alt="Tensorflow" width="26px" src="https://raw.githubusercontent.com/valohai/ml-logos/master/tensorflow-tf.svg" />]()
