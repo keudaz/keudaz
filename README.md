@@ -6,9 +6,9 @@ I am interested in Web Applications , Mobile Applications , ML , Native Apps(Flu
 
 #### Connect with me:
 
-[<img align="left" alt="Keudaz | LinkedIn" width="25px" src="https://github.com/keudaz/keudaz/blob/main/images/linkedin.png" />](https://www.linkedin.com/in/keudaz/)
+[<img align="left" alt="Keudaz | LinkedIn" width="25px" src="https://github.com/keudaz/keudaz/blob/main/images/linkedin.png" />](https://www.linkedin.com/company/codeflexofficial)
 [<img align="left" alt="Keudaz | Facebook" width="25px" src="https://github.com/keudaz/keudaz/blob/main/images/fb.png" />](https://www.facebook.com/keudaz)
-[<img align="left" alt="Keudaz | Instagram" width="25px" src="https://github.com/keudaz/keudaz/blob/main/images/insta.png" />](https://www.instagram.com/keudaz)
+[<img align="left" alt="Keudaz | Instagram" width="25px" src="https://github.com/keudaz/keudaz/blob/main/images/insta.png" />](https://www.instagram.com/codeflexofficial)
 [<img align="left" alt="Keudaz | Whatsapp" width="25px" src="https://github.com/keudaz/keudaz/blob/main/images/whatsapp.png" />](https://wa.me/940712129185)
 [<img align="left" alt="Keudaz | Github" width="25px" src="https://github.com/keudaz/keudaz/blob/main/images/github.png" />](https://github.com/keudaz)
 
