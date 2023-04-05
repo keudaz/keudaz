@@ -1,6 +1,6 @@
 ### Hi Friends 👋
 
-I am Kalana Udara, a Software Engineer [ BSc(Hons) @ SLIIT ] Owner at [Codeflex](https://www.facebook.com/CodeFlexOfficial) in Colombo, Sri Lanka.
+I am Kalana Udara, a Software Engineer [ BSc(Hons) @ SLIIT ] Owner at [Codeflex](https://www.facebook.com/CodeFlexOfficial.IT) in Colombo, Sri Lanka.
 
 I am interested in Web Applications , Mobile Applications , ML , Native Apps(Flutter/React native). I also have some experience with Computer Hardware and Electronic Devices (Phone,Laptops,Desktop and etc.).
 
