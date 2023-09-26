@@ -4,7 +4,7 @@ I am Kalana Udara, a Software Engineer [ BSc(Hons) @ SLIIT ] Owner at [Codeflex]
 
 I am interested in Web Applications , Mobile Applications , ML , Native Apps(Flutter/React native). I also have some experience with Computer Hardware and Electronic Devices (Phone,Laptops,Desktop and etc.).
 
-#### Connect with me[you can click any icon]:
+#### Connect with me [you can click any icon] :
 
 [<img align="left" alt="Keudaz | LinkedIn" width="25px" src="https://github.com/keudaz/keudaz/blob/main/images/linkedin.png" />](https://www.linkedin.com/company/codeflexofficial)
 [<img align="left" alt="Keudaz | Facebook" width="25px" src="https://github.com/keudaz/keudaz/blob/main/images/fb.png" />](https://www.facebook.com/keudaz)
