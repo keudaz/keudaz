@@ -10,7 +10,7 @@ I am interested in Web Applications , Mobile Applications , ML , Native Apps(Flu
 [<img align="left" alt="Keudaz | Facebook" width="25px" src="https://github.com/keudaz/keudaz/blob/main/images/fb.png" />](https://www.facebook.com/keudaz)
 [<img align="left" alt="Keudaz | Whatsapp" width="25px" src="https://github.com/keudaz/keudaz/blob/main/images/whatsapp.png" />](https://wa.me/94712129185)
 [<img align="left" alt="Keudaz | Whatsapp Catalog" width="25px" src="https://github.com/keudaz/keudaz/blob/main/images/whatsapp_catalog.png" />](https://wa.me/c/94712129185)
-[<img align="left" alt="CodeFlex | Facebook" width="25px" src="https://github.com/keudaz/keudaz/blob/main/images/fb.png" />](https://www.facebook.com/CodeFlexOfficial.IT)
+[<img align="left" alt="CodeFlex | Facebook" width="25px" src="https://github.com/keudaz/keudaz/blob/main/images/fb.png" />](https://www.facebook.com/CodeFlexOfficial)
 [<img align="left" alt="Keudaz | Instagram" width="25px" src="https://github.com/keudaz/keudaz/blob/main/images/insta.png" />](https://www.instagram.com/codeflexofficial)
 [<img align="left" alt="Keudaz | Github" width="25px" src="https://github.com/keudaz/keudaz/blob/main/images/github.png" />](https://github.com/keudaz)
 
