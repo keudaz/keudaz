@@ -25,7 +25,7 @@ I am interested in Web Applications , Mobile Applications , ML , Native Apps(Flu
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />]()
 [<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.svg" />]()
 [<img align="left" alt="Tensorflow" width="26px" src="https://raw.githubusercontent.com/valohai/ml-logos/master/tensorflow-tf.svg" />]()
-[<img align="left" alt="spring boot" width="26px" src="https://seeklogo.com/images/S/spring-logo-9A2BC78AAF-seeklogo.com.png" />]()
+[<img align="left" alt="spring boot" width="26px" src="https://github.com/keudaz/keudaz/blob/main/images/spring-logo.png" />]()
 [<img align="left" alt="React Native Expo" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSug2QDzVb9knBfFKz2JZnux1OTnAjdCKtapLMcPGreVYnD-Xph5MkBPqrMaW8-3cI9S0c&usqp=CAU" />]()
 [<img align="left" alt="Angular" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" />]()
 [<img align="left" alt="Mern" width="66px" src="https://miro.medium.com/max/815/0*PatkATBDaRl9ygN0" />]()
